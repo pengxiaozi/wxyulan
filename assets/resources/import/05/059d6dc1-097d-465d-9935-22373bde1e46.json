@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"ATTRIBUTION","# 运行时帧图与音效来源\n\n本目录由 `node tools/cocos-export.js` 从仓库根的 `pkg-*` 复制生成。\n图像为本机本地生成（Qwen-Image 2.1，出图清单与逐帧提示词见 `art-src/qwen-xianxia/`），\n音效来自 Kenney「UI Pack」Sounds（CC0）。逐条出处与授权见 `assets/public/CREDITS.md`。\n"]],0,0,[],[],[]]
